@@ -14,10 +14,10 @@
 - backups/
 
 ## Прочая информация
-PostgreSQL: порт 5432
-pgAdmin: http://localhost:5050 (или IP_сервера:5050)
-Логин и пароль для входа в БД: логин - user, пароль - password123
-Логин и пароль для входа в БД через pgAdmin 4: логин - admin@gmail.com, пароль - password123
+- PostgreSQL: порт 5432
+- pgAdmin: http://localhost:5050 (или IP_сервера:5050)
+- Логин и пароль для входа в БД: логин - user, пароль - password123
+- Логин и пароль для входа в БД через pgAdmin 4: логин - admin@gmail.com, пароль - password123
 
 ## Запуск
 ```bash
