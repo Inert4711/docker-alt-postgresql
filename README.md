@@ -11,7 +11,6 @@
 - docker-compose.yml
 - init.sql
 - README.md
-- backups/
 
 ## Прочая информация
 - PostgreSQL: порт 5432
