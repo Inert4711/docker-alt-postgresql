@@ -3,7 +3,7 @@
 
 ## Стек
 - ОС хоста: ALT Linux Server 11
-- Docker Engine 20.xx + Docker Compose V2
+- Docker Engine 28.3.3 + Docker Compose 2.39.1
 - PostgreSQL 15
 - pgAdmin 4 (latest)
 
