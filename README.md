@@ -8,10 +8,10 @@
 - pgAdmin 4 (latest)
 
 ## Структура проекта
-- docker-compose.yml     # два сервиса: db и pgadmin
-- init.sql               # инициализация таблицы users
+- docker-compose.yml
+- init.sql
 - README.md
-- backups/               # папка для бэкапов (создастся скриптом)
+- backups/
 
 ## Прочая информация
 PostgreSQL: порт 5432
